@@ -1,8 +1,9 @@
-## Welcome to GitHub Pages
+## Movimiento económico social decentralizado
 
-You can use the [editor on GitHub](https://github.com/movecosocdec/mesd/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Este espacio pretende proover una plataforma para exponer el monopolio bancario que existe
+en Chile, que es protegido por el mismo estado. En una serie de articulos voy presentar la 
+problemática y proponer posibles alternativas al sistema monetario actual, que sirva también como
+motor de justicia social
 
 ### Markdown
 
